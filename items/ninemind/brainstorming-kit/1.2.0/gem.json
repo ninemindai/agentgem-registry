@@ -1,0 +1,31 @@
+{
+  "formatVersion": 1,
+  "name": "brainstorming-kit",
+  "version": "1.2.0",
+  "createdFrom": "superpowers@6.0.3 (brainstorming + writing-plans + subagent-driven-development)",
+  "artifacts": [
+    {
+      "type": "skill",
+      "name": "brainstorming",
+      "path": "skills/brainstorming/SKILL.md",
+      "source": "standalone",
+      "description": "Turn ideas into fully-formed designs through collaborative, one-question-at-a-time dialogue."
+    },
+    {
+      "type": "skill",
+      "name": "writing-plans",
+      "path": "skills/writing-plans/SKILL.md",
+      "source": "standalone",
+      "description": "Write comprehensive, bite-sized TDD implementation plans an engineer can execute task-by-task."
+    },
+    {
+      "type": "skill",
+      "name": "subagent-driven-development",
+      "path": "skills/subagent-driven-development/SKILL.md",
+      "source": "standalone",
+      "description": "Execute a plan with a fresh subagent per task plus spec + quality review gates."
+    }
+  ],
+  "requiredSecrets": [],
+  "checks": []
+}

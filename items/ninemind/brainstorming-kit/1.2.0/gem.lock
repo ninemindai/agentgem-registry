@@ -1,0 +1,11 @@
+{
+  "formatVersion": 1,
+  "files": {
+    "gem.json": "sha256:52e19c3a29eda043d749df83c67eaf560c842f0068f13edfe3796e8485ed1b4a",
+    "skills/brainstorming/SKILL.md": "sha256:e14914605f640e0841758e45d0ab2a53243b59b921f929e47921c99668f2e61d",
+    "skills/subagent-driven-development/SKILL.md": "sha256:41ab239a6ad1c487cd839fdac972a8c9cf0f5e90efa59a63f963767864f0df4c",
+    "skills/writing-plans/SKILL.md": "sha256:272e1af349f5062c28dc282b3e21b220d58d683a7314a10c455b7432ec91d845"
+  },
+  "gemDigest": "sha256:791796aeb0544d1e3b829639d3bea2e39d2922911f9e05ec645f0912a33a0b75",
+  "signature": null
+}
