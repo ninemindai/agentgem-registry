@@ -15,13 +15,14 @@
         "artifactKinds": [
           "skill"
         ],
-        "description": "Brainstorm ideas into designs, turn designs into bite-sized TDD plans, then execute them with subagent review gates — the superpowers planning trio as one installable Gem.",
+        "description": "Brainstorm ideas into designs, turn designs into bite-sized TDD plans, then execute them with subagent review gates \u2014 the superpowers planning trio as one installable Gem.",
         "tags": [
           "brainstorming",
           "planning",
           "tdd",
           "superpowers"
-        ]
+        ],
+        "type": "kit"
       }
     }
   }
