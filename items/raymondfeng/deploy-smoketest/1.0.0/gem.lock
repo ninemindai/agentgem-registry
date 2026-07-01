@@ -1,0 +1,9 @@
+{
+  "formatVersion": 1,
+  "files": {
+    "gem.json": "sha256:25dd79c99e3483f4eab6fa48a097648c0d553d9acffcf3eee676cb8eb73c20e1",
+    "skills/smoketest/SKILL.md": "sha256:517cd8a5e076b90c81f2964aac76c611760579b5d452fe51aa1e35ebb1879588"
+  },
+  "gemDigest": "sha256:5c023f619cd56440007b62bea60c80f76dbf9d5fc3d451fd48eeedba2c97f5bd",
+  "signature": null
+}

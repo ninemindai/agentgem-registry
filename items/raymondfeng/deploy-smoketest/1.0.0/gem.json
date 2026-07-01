@@ -1,0 +1,16 @@
+{
+  "formatVersion": 1,
+  "name": "deploy-smoketest",
+  "version": "1.0.0",
+  "createdFrom": "/tmp/smoketest",
+  "artifacts": [
+    {
+      "type": "skill",
+      "name": "smoketest",
+      "path": "skills/smoketest/SKILL.md",
+      "source": "standalone"
+    }
+  ],
+  "requiredSecrets": [],
+  "checks": []
+}
