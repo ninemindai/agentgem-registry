@@ -19,10 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----
-
-Each gem under items/ keeps the license of the work it was made from.
-items/ninemind/brainstorming-kit contains skills from superpowers
-(https://github.com/obra/superpowers), MIT License, Copyright (c) 2025
-Jesse Vincent.
