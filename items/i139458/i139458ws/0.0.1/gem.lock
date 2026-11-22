@@ -1,0 +1,11 @@
+{
+  "formatVersion": 2,
+  "files": {
+    "gem.json": "sha256:6abce66ac4d4ff010a5289cb54d7e62f08e78c4b6c0010f2fbac72ccfb31770f",
+    "plugin.json": "sha256:fe3d104478f40ba72e2f04cf5077eb5975afb6c5dc71ef9f21a9e8cfd1e2eb07",
+    "skills/release/SKILL.md": "sha256:d1167fb210c4573d8f116db23270b73a57a3b0cfd7bcdc0e6d8b9088fda0405b",
+    "skills/verify/SKILL.md": "sha256:1fd1d1e4c10934785eff3a65fca1162b35f333016fc3bdef78a430ab8f33629e"
+  },
+  "gemDigest": "sha256:c9404f97fa7c78eb6abb24f895966174c04d26f7a4405b37e15f0ee2a365c3a6",
+  "signature": null
+}

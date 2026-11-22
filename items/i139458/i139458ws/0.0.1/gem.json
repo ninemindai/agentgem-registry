@@ -1,0 +1,33 @@
+{
+  "formatVersion": 2,
+  "name": "i139458ws",
+  "version": "0.0.1",
+  "createdFrom": "/app/.claude",
+  "artifacts": [
+    {
+      "type": "skill",
+      "name": "release",
+      "path": "skills/release/SKILL.md",
+      "source": "standalone",
+      "description": "Use when cutting an AgentGem release — core npm (vX.Y.Z) and/or desktop (desktop-vX.Y.Z) — or when asked to bump the version, write release notes, or tag a release."
+    },
+    {
+      "type": "skill",
+      "name": "verify",
+      "path": "skills/verify/SKILL.md",
+      "source": "standalone",
+      "description": "Build, launch, and drive this repo's console app to verify a change end-to-end in a real browser."
+    }
+  ],
+  "requiredSecrets": [],
+  "checks": [],
+  "contract": {
+    "task": "Use the \"release\" skill to complete a small demonstration task in this workspace.",
+    "expect": {
+      "tools": [
+        "release"
+      ],
+      "forbidToolFailures": true
+    }
+  }
+}
